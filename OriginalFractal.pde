@@ -1,7 +1,6 @@
 int len = 50;
 public void setup()
 {
-  background(0);
   size(800, 800);
   rectMode(CENTER);
 }
